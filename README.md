@@ -1,3 +1,3 @@
 #Hello World
 
-this is a first_github for my first project
+This is a readme for our first project!
